@@ -54,9 +54,9 @@ query{
 ```
 
 ```js
-    mutation{
-      createBook(title:"vue.js book",author:"reco"){title}
-    }
+mutation{
+  createBook(title:"vue.js book",author:"reco"){title}
+}
 ```
 
 # GraphQL 入门
